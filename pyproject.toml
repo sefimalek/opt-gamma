@@ -32,7 +32,7 @@ pandas = ["pandas>=1.5"]
 dev = ["pytest>=7", "pandas>=1.5", "ruff"]
 
 [project.urls]
-# Homepage = "https://github.com/<user>/opt-gamma"   # à compléter
+Homepage = "https://github.com/sefimalek/opt-gamma"
 
 [tool.setuptools.packages.find]
 where = ["src"]
