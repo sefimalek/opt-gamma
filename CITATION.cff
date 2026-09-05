@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "opt-gamma: optimized gamma inter-annotator agreement"
+authors:
+  - family-names: "Sefi"
+    given-names: "Malek"
+  - family-names: "Nebel"
+    given-names: "Léo"
+  - family-names: "Bouchet"
+    given-names: "François"
+version: 0.4.1
+date-released: 2026-09-05
+license: MIT
